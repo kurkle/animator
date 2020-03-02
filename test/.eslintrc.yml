@@ -1,0 +1,14 @@
+extends: "plugin:mocha/recommended"
+
+plugins: ["mocha"]
+
+parserOptions:
+  ecmaVersion: 6
+
+env:
+  mocha: true
+  node: true
+
+rules:
+  import/no-nodejs-modules: 0
+  prefer-arrow-callback: 0

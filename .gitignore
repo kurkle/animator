@@ -1,0 +1,7 @@
+coverage
+node_modules
+.vscode
+dist
+stats.html
+docs
+.nyc_output
