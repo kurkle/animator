@@ -1,6 +1,6 @@
-import Config from '../src/config';
+import Config from '../src/config.js';
 import assert from 'assert';
-import sleep from './sleep';
+import sleep from './sleep.js';
 
 describe('Config', function() {
 	it('Should not fail with empty config', function() {

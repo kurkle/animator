@@ -1,4 +1,4 @@
-import Animation from '../src/animation';
+import Animation from '../src/animation.js';
 import assert from 'assert';
 
 describe('Animation', function() {

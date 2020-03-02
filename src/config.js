@@ -1,4 +1,4 @@
-import Animation from './animation';
+import Animation from './animation.js';
 
 const isObject = (obj) => {
 	const type = typeof obj;

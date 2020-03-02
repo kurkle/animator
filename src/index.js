@@ -1,5 +1,5 @@
-import Config from './config';
-import Entry from './entry';
+import Config from './config.js';
+import Entry from './entry.js';
 
 const browser = typeof window !== 'undefined';
 

@@ -1,6 +1,6 @@
 /* eslint-disable import/namespace, import/no-namespace */
 import color from '@kurkle/color';
-import * as effects from './effects';
+import * as effects from './effects.js';
 
 const transparent = 'transparent';
 

@@ -1,6 +1,6 @@
-import animator from '../src/index';
+import animator from '../src/index.js';
 import assert from 'assert';
-import Config from '../src/config';
+import Config from '../src/config.js';
 
 describe('Animations', function() {
 

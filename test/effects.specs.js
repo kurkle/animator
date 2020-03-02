@@ -1,5 +1,5 @@
 /* eslint-disable import/no-namespace, import/namespace */
-import  * as effects from '../src/effects';
+import  * as effects from '../src/effects.js';
 import assert from 'assert';
 
 describe('Effects', function() {
